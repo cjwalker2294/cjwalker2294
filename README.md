@@ -1,5 +1,5 @@
 - 👋 Hi, I’m CJ
-- 👀 I’m interested in healthcare, music, and programming. 
+- 👀 I’m interested in healthcare, music production, and programming. 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
